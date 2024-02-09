@@ -1,4 +1,4 @@
-# obsidian-scripts
+# TOC.py README
 
 ## Prerequisites:
     - Place script in folder containing other markdown files
